@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6wumbt.saturadar88win.cfd/sitemap.xml
